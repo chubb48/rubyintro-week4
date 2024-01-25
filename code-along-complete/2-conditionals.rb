@@ -3,6 +3,7 @@
 # ruby 2-conditionals.rb
 
 # Booleans
+
 test_is_true = true
 puts test_is_true
 
